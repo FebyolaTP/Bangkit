@@ -1,2 +1,2 @@
 # Bangkit
-For bangkit purpose only
+For bangkit purpose only, Semangat 
